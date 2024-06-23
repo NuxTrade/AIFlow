@@ -1,7 +1,7 @@
 [tool.poetry]
-name = "flo"
-version = "0.1.0"
-description = "A easy way to create AI agents"
+name = "aiflow"
+version = "0.0.1"
+description = "A easy way to create structured AI agents"
 authors = ["vizsatiz <dev@nuxtrade.me>"]
 license = "MIT"
 readme = "README.md"
