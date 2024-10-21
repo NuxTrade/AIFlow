@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "aiflow"
-version = "0.0.3-rc1"
+version = "0.0.3"
 description = "A easy way to create structured AI agents"
 authors = ["vizsatiz <dev@nuxtrade.me>"]
 license = "MIT"
