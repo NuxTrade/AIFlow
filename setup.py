@@ -5,7 +5,7 @@ with open('README.md', 'r') as fh:
 
 setuptools.setup(
     name='aiflow',
-    version='0.0.5-dev1',
+    version='0.0.5-dev2',
     author='NuxTrade',
     description='Create composable AI agents',
     long_description=long_description,
